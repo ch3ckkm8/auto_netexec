@@ -20,4 +20,4 @@ It intelligently skips closed ports to save time and includes a configurable del
 ## 🧾 Usage
 
 ```bash
-./check_creds.sh <target> <username> <password>
+./auto_netexec_bulk_creds_checker.sh <target> <username> <password>
