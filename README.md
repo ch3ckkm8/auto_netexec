@@ -48,7 +48,7 @@ The script checks credentials against the following services, **but only if thei
 ## 🧾 Usage
 
 ```bash
-./auto_netexec_bulk_creds_checker.sh <target> <username> <password>
+./auto_netexec_bulk_creds_checker.sh target 'username' 'password'
 ```
 ---
 
