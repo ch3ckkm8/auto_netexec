@@ -9,7 +9,7 @@ It intelligently skips closed ports to save time and includes a configurable del
 
 ## 🛠️ Requirements
 - bash (supports /dev/tcp)
-- netexec (nxc) installed and in your PATH
+- netexec (nxc) installed
 - timeout utility (usually part of coreutils)
 
 ---
